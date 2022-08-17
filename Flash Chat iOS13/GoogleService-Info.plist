@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>852139655309-d5lun8nms709q7s9vhkjuarent86uu9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.852139655309-d5lun8nms709q7s9vhkjuarent86uu9j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzvh637ZUPGJXWTMtDKc5V8t3QWmSpV7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852139655309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BryceBelgarde.FlashChat</string>
+	<key>PROJECT_ID</key>
+	<string>flashchat-a949b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashchat-a949b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852139655309:ios:d084cd5baf603ba96b22c4</string>
+</dict>
+</plist>
